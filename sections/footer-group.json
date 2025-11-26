@@ -79,8 +79,8 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
+            "title": "",
+            "content": "<p>Abonnez-vous pour ne rien manquer des offres et actualités de Irma.</p>"
           }
         },
         "links": {
@@ -94,8 +94,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Contacter un membre de l’équipe",
+            "content": "<p>Notre équipe est disponible pour vous, n’hésitez pas à nous contacter du lundi au vendredi de 09h30 à 16h.</p><p></p><p>Vous pouvez nous contacter par mail à l’adresse suivante : service-client@irma.com en suivant le formulaire de contact ici .</p>",
             "enable_follow_on_shop": true
           }
         }
