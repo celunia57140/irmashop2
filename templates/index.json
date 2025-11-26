@@ -428,9 +428,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_26_nov._2025_11_06_28.png",
             "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "subheading": "A propos de nous",
+            "title": "Notre Histoire",
+            "content": "<p>Irma est née d’un chemin personnel, d’une conversion et d’un amour profond pour la pudeur, l’élégance et l’authenticité. Chaque création raconte cette harmonie entre foi, féminité et modernité.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -440,9 +440,9 @@
           "settings": {
             "image": "shopify://shop_images/photo_irma.png",
             "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "subheading": "A propos de nous",
+            "title": "Nos Valeurs",
+            "content": "<p>Nous plaçons la transparence au cœur de notre engagement. Nous proposons des produits soigneusement conçus</p><p>La satisfaction de nos clientes est notre priorité, et il est primordial pour nous de grandir tout en restant fidèles à nos principes.</p>",
             "button_url": "",
             "button_text": ""
           }
