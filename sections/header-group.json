@@ -26,11 +26,11 @@
         "message"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "autoplay": false,
-        "cycle_speed": 6,
+        "cycle_speed": 4,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
         "background_gradient": "",
@@ -42,7 +42,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/Design_sans_titre_30.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
