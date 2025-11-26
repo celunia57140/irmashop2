@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison offerte en France dès 60€",
+            "url": ""
+          }
+        },
+        "message_GDnHfQ": {
+          "type": "message",
+          "settings": {
+            "text": "Black Friday",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_GDnHfQ"
       ],
       "settings": {
         "enable_sticky": true,
