@@ -21,7 +21,7 @@
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
             "title": "Abayas & voiles faits main, esprit Dubaï.",
-            "heading_tag": "h4",
+            "heading_tag": "h5",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -78,6 +78,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/voile_marron_photo_petit.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -90,6 +91,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/voile_noir_photo_petit.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -102,6 +104,7 @@
         "item_9QN8aN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/voile_beige_photo_petit.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
