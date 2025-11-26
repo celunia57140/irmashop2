@@ -47,11 +47,10 @@
     },
     "header": {
       "type": "header",
-      "disabled": true,
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/logo_irma.jpg",
+        "logo": "shopify://shop_images/Black_and_Pink_Bold_Typographic_Beauty_Cosmetics_Logo.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
