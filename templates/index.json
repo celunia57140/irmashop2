@@ -150,6 +150,36 @@
         "heading_gradient": ""
       }
     },
+    "multiple-images-with-text": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "1664424486a2b084ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/logo_irma.jpg",
+            "image_rotation_degrees": -10.5,
+            "subheading": "BALBLABLA",
+            "title": "CLOD TCHOIN",
+            "content": "<p>prend dans le cul et reve de doigter une femme </p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424486a2b084ab-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -292,36 +322,6 @@
         "background_gradient": ""
       }
     },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/logo_irma.jpg",
-            "image_rotation_degrees": -10.5,
-            "subheading": "BALBLABLA",
-            "title": "CLOD TCHOIN",
-            "content": "<p>prend dans le cul et reve de doigter une femme </p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "multiple_images_with_text_abDXXD": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -370,9 +370,9 @@
     "video_BGpQj6",
     "video_CXnMAL",
     "collection-list",
+    "multiple-images-with-text",
     "impact-text",
     "media-grid",
-    "multiple-images-with-text",
     "multiple_images_with_text_abDXXD"
   ]
 }
