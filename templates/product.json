@@ -75,6 +75,26 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_QmXqNT": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Propre et professionnelle",
+            "content": "<p><strong>Tissu : 94 % polyester, 6 % élasthanneLavage à 30° en machine, séparément et dans un filet de lavageNe pas sécher en machine</strong></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_QjH4Jn": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Livraison & Retours",
+            "content": "<p><strong>Nous nous efforçons d’expédier les commandes sous 3 jours ouvrés. Veuillez noter que durant les périodes de soldes et lors du lancement de nouvelles collections, ce délai peut être prolongé en raison d’un volume élevé de commandes. Consultez notre page Livraison pour plus d’informations.</strong></p><p><strong>Les articles commandés chez Irma peuvent être retournés dans un délai de 14 jours à compter de la date de réception. Consultez notre page Retours pour plus de détails.</strong></p><p></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -87,7 +107,9 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "collapsible_text_QmXqNT",
+        "collapsible_text_QjH4Jn"
       ],
       "settings": {
         "full_width": true,
