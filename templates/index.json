@@ -298,6 +298,36 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/logo_irma.jpg",
+            "image_rotation_degrees": -10.5,
+            "subheading": "BALBLABLA",
+            "title": "CLOD TCHOIN",
+            "content": "<p>PREND DANS LE CUL</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424486a2b084ab-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "multiple_images_with_text_abDXXD": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_FXwCQY": {
+          "type": "item",
+          "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_26_nov._2025_11_19_13.png",
             "image_rotation_degrees": -10.5,
             "subheading": "A propos de nous",
@@ -307,7 +337,7 @@
             "button_text": ""
           }
         },
-        "1664424486a2b084ab-1": {
+        "item_8zxKBh": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/carton_irma.png",
@@ -321,8 +351,8 @@
         }
       },
       "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
+        "item_FXwCQY",
+        "item_8zxKBh"
       ],
       "settings": {
         "full_width": true,
@@ -342,6 +372,7 @@
     "collection-list",
     "impact-text",
     "media-grid",
-    "multiple-images-with-text"
+    "multiple-images-with-text",
+    "multiple_images_with_text_abDXXD"
   ]
 }
