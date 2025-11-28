@@ -12,52 +12,29 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-2": {
-          "type": "image",
+        "video_aYGEL8": {
+          "type": "video",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_nov._2025_04_32_09.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "Abayas & voiles faits main, esprit Dubaï.",
-            "heading_tag": "h5",
+            "subheading": "BLACK FRIDAY",
+            "title": "2 + 1",
+            "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_nov._2025_04_23_26.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "IRMA – L’élégance à l’état pur.",
-            "heading_tag": "h3",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
+            "overlay_opacity": 30,
             "background": "",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "slide-2",
-        "slide-1"
+        "video_aYGEL8"
       ],
       "settings": {
         "full_width": true,
@@ -72,69 +49,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_nov._2025_13_59_17.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/voile_noir_photo_petit.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_9QN8aN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/voile_beige_photo_petit.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "item_9QN8aN"
-      ],
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -142,6 +56,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/MARRON_V5.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -156,6 +71,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/N4_V2.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -170,20 +86,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
+            "image": "shopify://shop_images/ChatGPT_Image_28_nov._2025_02_42_00.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -198,20 +101,19 @@
       "block_order": [
         "collection-1",
         "collection_FePTwB",
-        "collection-2",
-        "collection-3"
+        "collection-2"
       ],
       "settings": {
         "full_width": true,
         "stack_collections": false,
-        "collections_per_row_mobile": "1",
+        "collections_per_row_mobile": "2",
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Les Pièces Irma",
+        "title": "Collection Lune",
         "content": "",
         "link_url": "",
-        "link_text": "Découvrir nos pièces",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -219,39 +121,14 @@
         "heading_gradient": ""
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
-        "1664424181b38582d5-0": {
+        "item_F4kVEV": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Fait main, pensée dans le détail",
+            "title": "",
+            "subheading": "",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -261,7 +138,7 @@
         }
       },
       "block_order": [
-        "1664424181b38582d5-0"
+        "item_F4kVEV"
       ],
       "settings": {
         "full_width": true,
@@ -279,40 +156,6 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "A propos de nous",
-            "heading_tag": "h3"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Irma célèbre une élégance féminine qui allie convictions, culture et modestie — des pièces raffinées, accessibles, pensées pour toutes les femmes.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Capture_d_ecran_2025-11-26_a_05.14.07.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 29
-      }
-    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -320,7 +163,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/6.png",
-            "title": "Une allure, une identité",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -342,7 +185,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/8.png",
-            "title": "Chaque détail raconte une émotion",
+            "title": "",
             "heading_tag": "h5",
             "link_url": "",
             "link_text": "",
@@ -386,7 +229,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_26_nov._2025_04_23_26.png",
-            "title": "L’élégance, tout simplement",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -466,11 +309,8 @@
   },
   "order": [
     "slideshow",
-    "image-link-blocks",
     "collection-list",
-    "featured-collection",
     "impact-text",
-    "image-with-text-overlay",
     "media-grid",
     "multiple-images-with-text"
   ]

@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison offerte en France dès 60€",
+            "text": "Livraison offerte en France dès 75€",
             "url": ""
           }
         },
@@ -47,11 +47,63 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "mega_menu_AWQcwU": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "",
+            "layout": "horizontal",
+            "submenu_style": "bold_heading",
+            "image_heading_1": "",
+            "image_link_1": "",
+            "image_text_color_1": "#ffffff",
+            "image_heading_2": "",
+            "image_link_2": "",
+            "image_text_color_2": "#ffffff",
+            "image_heading_3": "",
+            "image_link_3": "",
+            "image_text_color_3": "#ffffff",
+            "product": "",
+            "product_card_background": "",
+            "product_card_text_color": "",
+            "promo_content_layout": "grid",
+            "stretch_promo": false,
+            "drawer_link_image": "hide"
+          }
+        },
+        "mega_menu_TN6M6z": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "",
+            "layout": "horizontal",
+            "submenu_style": "bold_heading",
+            "image_heading_1": "",
+            "image_link_1": "",
+            "image_text_color_1": "#ffffff",
+            "image_heading_2": "",
+            "image_link_2": "",
+            "image_text_color_2": "#ffffff",
+            "image_heading_3": "",
+            "image_link_3": "",
+            "image_text_color_3": "#ffffff",
+            "product": "",
+            "product_card_background": "",
+            "product_card_text_color": "",
+            "promo_content_layout": "grid",
+            "stretch_promo": false,
+            "drawer_link_image": "hide"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_AWQcwU",
+        "mega_menu_TN6M6z"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
         "logo": "shopify://shop_images/Black_and_Pink_Bold_Typographic_Beauty_Cosmetics_Logo.png",
-        "logo_max_width": 120,
+        "logo_max_width": 195,
         "logo_mobile_max_width": 135,
         "menu": "main-menu",
         "sidebar_menu": "",
