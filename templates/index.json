@@ -9,46 +9,38 @@
  */
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
+    "video_BGpQj6": {
+      "type": "video",
       "blocks": {
-        "video_aYGEL8": {
-          "type": "video",
+        "subheading_FyyAMA": {
+          "type": "subheading",
           "settings": {
-            "video": "shopify://files/videos/1128(2).mov",
-            "mobile_video": "shopify://files/videos/1128(2).mov",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "BLACK FRIDAY",
-            "title": "2 + 1",
-            "heading_tag": "h2",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
+            "text": "BLACK FRIDAY"
+          }
+        },
+        "heading_aHzxwa": {
+          "type": "heading",
+          "settings": {
+            "text": "2 + 1",
+            "heading_tag": "h1"
           }
         }
       },
       "block_order": [
-        "video_aYGEL8"
+        "subheading_FyyAMA",
+        "heading_aHzxwa"
       ],
+      "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
         "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "video_size": "auto",
+        "video": "shopify://files/videos/1128(2).mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 7
       }
     },
     "collection-list": {
@@ -310,7 +302,7 @@
     }
   },
   "order": [
-    "slideshow",
+    "video_BGpQj6",
     "collection-list",
     "impact-text",
     "media-grid",
