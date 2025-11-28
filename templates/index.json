@@ -56,7 +56,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/MARRON_V5.jpg",
+            "image": "shopify://shop_images/voile_marron_irma.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -64,14 +64,14 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection_FePTwB": {
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/N4_V2.jpg",
+            "image": "shopify://shop_images/11.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -79,14 +79,14 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         },
         "collection-2": {
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/ChatGPT_Image_28_nov._2025_02_42_00.png",
+            "image": "shopify://shop_images/photo_irma_b17bd261-b6e2-4520-a96c-22b2796eab0a.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -94,7 +94,7 @@
             "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
