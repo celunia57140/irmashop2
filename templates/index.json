@@ -67,21 +67,6 @@
             "overlay_opacity": 0
           }
         },
-        "collection_FePTwB": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify://shop_images/11.png",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "collection-2": {
           "type": "collection",
           "settings": {
@@ -96,12 +81,27 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "collection_FePTwB": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/11.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "collection-1",
-        "collection_FePTwB",
-        "collection-2"
+        "collection-2",
+        "collection_FePTwB"
       ],
       "settings": {
         "full_width": true,
