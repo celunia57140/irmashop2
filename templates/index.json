@@ -15,6 +15,7 @@
         "video_aYGEL8": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/1128(2).mov",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
