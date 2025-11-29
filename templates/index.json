@@ -115,12 +115,12 @@
           "type": "collection",
           "settings": {
             "collection": "hijab-moon",
-            "image": "shopify://shop_images/WhatsApp_Image_2025-11-28_at_19.36.1655555.jpg",
+            "image": "shopify://shop_images/f19a7f1e-f3e6-4d83-9231-7e8f2618ffea.jpg",
             "subheading": "",
             "title": "",
             "url": "",
-            "heading_tag": "h6",
-            "text_position": "place-self-end-center text-center",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 0
