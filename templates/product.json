@@ -81,8 +81,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Propre et professionnelle",
-            "content": "<p><strong>Tissu : 94 % polyester, 6 % élasthanneLavage à 30° en machine, séparément et dans un filet de lavageNe pas sécher en machine</strong></p>",
+            "title": "Composition",
+            "content": "<p><strong>Tissu : 94 % polyester, 6 % élasthanneLavage à 30° en machine, séparément et dans un filet de lavage</strong></p><p><strong>Ne pas sécher en machine</strong></p>",
             "page": ""
           }
         },
@@ -92,7 +92,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Livraison & Retours",
-            "content": "<p><strong>Nous nous efforçons d’expédier les commandes sous 3 jours ouvrés. Veuillez noter que durant les périodes de soldes et lors du lancement de nouvelles collections, ce délai peut être prolongé en raison d’un volume élevé de commandes. Consultez notre page Livraison pour plus d’informations.</strong></p><p><strong>Les articles commandés chez Irma peuvent être retournés dans un délai de 14 jours à compter de la date de réception. Consultez notre page Retours pour plus de détails.</strong></p><p></p>",
+            "content": "<p><strong>Nous nous efforçons d’expédier les commandes sous 3 jours ouvrés. </strong></p><p><strong>Veuillez noter que durant les périodes de soldes et lors du lancement de nouvelles collections, ce délai peut être prolongé en raison d’un volume élevé de commandes. </strong></p><p><strong>Consultez notre page Livraison pour plus d’informations.</strong></p><p><strong>Les articles commandés chez Irma peuvent être retournés dans un délai de 14 jours à compter de la date de réception. Consultez notre page Retours pour plus de détails.</strong></p><p></p>",
             "page": ""
           }
         }
