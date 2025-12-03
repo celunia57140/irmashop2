@@ -28,11 +28,38 @@
             "text": "Profitez de -10 % pour l’achat de 2 voiles.",
             "url": ""
           }
+        },
+        "message_HEGJ7b": {
+          "type": "message",
+          "name": "-10%",
+          "settings": {
+            "text": "Profitez de -25 % pour l’achat de 3 voiles.",
+            "url": ""
+          }
+        },
+        "message_6kb9eA": {
+          "type": "message",
+          "name": "-10%",
+          "settings": {
+            "text": "Profitez de -10 % pour l’achat de 2 voiles.",
+            "url": ""
+          }
+        },
+        "message_yDpa8h": {
+          "type": "message",
+          "name": "-10%",
+          "settings": {
+            "text": "Profitez de -10 % pour l’achat de 2 voiles.",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_WEBQ7r"
+        "message_WEBQ7r",
+        "message_HEGJ7b",
+        "message_6kb9eA",
+        "message_yDpa8h"
       ],
       "settings": {
         "enable_sticky": true,
