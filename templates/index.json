@@ -11,25 +11,6 @@
   "sections": {
     "video_BGpQj6": {
       "type": "video",
-      "blocks": {
-        "subheading_FyyAMA": {
-          "type": "subheading",
-          "settings": {
-            "text": "BLACK FRIDAY"
-          }
-        },
-        "heading_aHzxwa": {
-          "type": "heading",
-          "settings": {
-            "text": "2 + 1",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_FyyAMA",
-        "heading_aHzxwa"
-      ],
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -46,12 +27,6 @@
     "video_CXnMAL": {
       "type": "video",
       "blocks": {
-        "subheading_tMLkQQ": {
-          "type": "subheading",
-          "settings": {
-            "text": "BLACK FRIDAY"
-          }
-        },
         "heading_akcx7d": {
           "type": "heading",
           "settings": {
@@ -61,7 +36,6 @@
         }
       },
       "block_order": [
-        "subheading_tMLkQQ",
         "heading_akcx7d"
       ],
       "disabled": true,
